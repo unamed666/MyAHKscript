@@ -1,4 +1,4 @@
-# SuperTyping AHK
+# SuperTyping
 
 **SuperTyping** is an AutoHotkey script that adds popup menus for letter, number, and punctuation variants while typing. It allows you to quickly insert alternative Unicode characters using an interactive GUI.
 
@@ -40,3 +40,4 @@
 - The script temporarily uses the clipboard to insert Unicode characters.  
 - Popups appear only when the toggle mode is active.  
 - Tooltip appears at the bottom of the screen to indicate mode status.
+
