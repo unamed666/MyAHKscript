@@ -1,0 +1,2 @@
+# MyAHKscript
+Autohotkey script
