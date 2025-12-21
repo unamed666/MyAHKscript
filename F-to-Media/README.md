@@ -7,3 +7,5 @@
 - F6 prev
 - F7 start/pause
 - F8 next
+
+Toggle mode : Right ALT
