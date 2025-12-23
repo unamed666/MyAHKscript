@@ -6,6 +6,9 @@
 
 - **Character Variant Popups**  
   Shows a popup for every letter (a–z), number (0–9), and punctuation key with available Unicode variants.
+  - if you press A, it will popup a ą á ä ã Ā Ą Á Ä Ã
+  - if you press 1, it will popup ¹ ₁
+  - if you press !, it will popup ¡ ‼
 
 - **Toggle On/Off**  
   Press **Right CTRL** to enable or disable the popup mode. The active mode is indicated by a tooltip.
@@ -40,4 +43,5 @@
 - The script temporarily uses the clipboard to insert Unicode characters.  
 - Popups appear only when the toggle mode is active.  
 - Tooltip appears at the bottom of the screen to indicate mode status.
+
 
