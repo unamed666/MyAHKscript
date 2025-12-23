@@ -25,7 +25,7 @@
 
 ## How to Use
 
-1. Run the `.ahk` script with AutoHotkey v1.  
+1. Run the `.ahk` script with AutoHotkey v1. (skip this step for `.exe` version)
 2. Press **Right CTRL** to activate SuperTyping mode.  
 3. Press a letter, number, or punctuation key to display the variant popup.  
 4. Click the desired character in the popup to send it to the active window.  
@@ -44,6 +44,7 @@
 - The script temporarily uses the clipboard to insert Unicode characters.  
 - Popups appear only when the toggle mode is active.  
 - Tooltip appears at the bottom of the screen to indicate mode status.
+
 
 
 
