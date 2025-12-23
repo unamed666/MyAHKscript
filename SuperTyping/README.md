@@ -12,6 +12,7 @@
 
 - **Toggle On/Off**  
   Press **Right CTRL** to enable or disable the popup mode. The active mode is indicated by a tooltip.
+  Change the default button in ~rctrl::
 
 - **Interactive GUI**  
   Click buttons in the popup to insert the selected variant into the active window.
@@ -43,5 +44,6 @@
 - The script temporarily uses the clipboard to insert Unicode characters.  
 - Popups appear only when the toggle mode is active.  
 - Tooltip appears at the bottom of the screen to indicate mode status.
+
 
 
