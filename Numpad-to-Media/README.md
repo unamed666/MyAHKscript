@@ -1,12 +1,14 @@
 Turn Numpad button to media button
-
-Numpad1 = f15 
-Numpad2 = Volume_Down
-Numpad3 = f16 
-Numpad4 = Media_Prev
-Numpad5 = Media_Play_Pause
-Numpad6 = Media_Next
-Numpad7 = f17 
-Numpad8 = Volume_Up
-Numpad9 = f18
-Numpad0 = Volume_Mute
+<br><br>
+Right ALT = Toggle ON-OFF
+<br><br>
+Numpad1 = f15 <br>
+Numpad2 = Volume_Down<br>
+Numpad3 = f16 <br>
+Numpad4 = Media_Prev<br>
+Numpad5 = Media_Play_Pause<br>
+Numpad6 = Media_Next<br>
+Numpad7 = f17 <br>
+Numpad8 = Volume_Up<br>
+Numpad9 = f18<br>
+Numpad0 = Volume_Mute<br>
