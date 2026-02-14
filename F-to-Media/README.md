@@ -1,6 +1,6 @@
 *Turn Function button to media button*
 
-= F1 Winamp (C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Winamp\Winamp.lnk)
+- F1 Winamp (C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Winamp\Winamp.lnk)
 - F2 vol down
 - F3 vol up
 - F4 mute
@@ -14,4 +14,5 @@
 - F12 F18 (for custom button)
 
 Toggle mode : Right ALT
+
 
